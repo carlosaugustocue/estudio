@@ -287,4 +287,4 @@
 
 - `128` [https://codepen.io/devmount/full/ZEGLaKR](https://codepen.io/devmount/full/ZEGLaKR)
 
-Fuente : (https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m)
+El listado se toma del articulo: A CheatSheet of 128 CheatSheets for Developers ...: (https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m)
